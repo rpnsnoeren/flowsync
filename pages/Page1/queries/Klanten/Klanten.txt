@@ -1,0 +1,1 @@
+{"pageSize":"100","command":"LIST_RECORDS","baseId":"appvat0EsQL1W5CzF","tableName":"Customers"}
